@@ -1,0 +1,16 @@
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych numero dos\bin\Debug\netcoreapp3.1\Przetwarzanie danych numero dos.exe
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych numero dos\bin\Debug\netcoreapp3.1\Przetwarzanie danych numero dos.deps.json
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych numero dos\bin\Debug\netcoreapp3.1\Przetwarzanie danych numero dos.runtimeconfig.json
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych numero dos\bin\Debug\netcoreapp3.1\Przetwarzanie danych numero dos.runtimeconfig.dev.json
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych numero dos\bin\Debug\netcoreapp3.1\Przetwarzanie danych numero dos.dll
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych numero dos\bin\Debug\netcoreapp3.1\Przetwarzanie danych numero dos.pdb
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych numero dos\obj\Debug\netcoreapp3.1\Przetwarzanie danych numero dos.csprojAssemblyReference.cache
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych numero dos\obj\Debug\netcoreapp3.1\Przetwarzanie danych numero dos.csproj.GenerateResource.cache
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych numero dos\obj\Debug\netcoreapp3.1\Przetwarzanie danych numero dos.AssemblyInfoInputs.cache
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych numero dos\obj\Debug\netcoreapp3.1\Przetwarzanie danych numero dos.AssemblyInfo.cs
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych numero dos\obj\Debug\netcoreapp3.1\Przetwarzanie danych numero dos.csproj.CoreCompileInputs.cache
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych numero dos\obj\Debug\netcoreapp3.1\Przetwarzanie danych numero dos.dll
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych numero dos\obj\Debug\netcoreapp3.1\Przetwarzanie danych numero dos.pdb
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych numero dos\obj\Debug\netcoreapp3.1\Przetwarzanie danych numero dos.genruntimeconfig.cache
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych numero dos\obj\Debug\netcoreapp3.1\Przetwarzanie_danych_numero_dos.Program2.resources
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych numero dos\obj\Debug\netcoreapp3.1\Przetwarzanie_danych_numero_dos.Chuj.resources

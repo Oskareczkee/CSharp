@@ -1,0 +1,12 @@
+P:\Visual Studio Programy\CSharp\Tablice i listy\bin\Debug\Tablice i listy.exe.config
+P:\Visual Studio Programy\CSharp\Tablice i listy\bin\Debug\Tablice i listy.exe
+P:\Visual Studio Programy\CSharp\Tablice i listy\bin\Debug\Tablice i listy.pdb
+P:\Visual Studio Programy\CSharp\Tablice i listy\obj\Debug\Tablice i listy.csprojAssemblyReference.cache
+P:\Visual Studio Programy\CSharp\Tablice i listy\obj\Debug\Tablice_i_listy.Properties.Resources.resources
+P:\Visual Studio Programy\CSharp\Tablice i listy\obj\Debug\Tablice i listy.csproj.GenerateResource.cache
+P:\Visual Studio Programy\CSharp\Tablice i listy\obj\Debug\Tablice i listy.csproj.CoreCompileInputs.cache
+P:\Visual Studio Programy\CSharp\Tablice i listy\obj\Debug\Tablice i listy.exe
+P:\Visual Studio Programy\CSharp\Tablice i listy\obj\Debug\Tablice i listy.pdb
+P:\Visual Studio Programy\CSharp\Tablice i listy\obj\Debug\Tablice_i_listy.TicTacToe.resources
+P:\Visual Studio Programy\CSharp\Tablice i listy\obj\Debug\Tablice_i_listy.WorldSeriesWinnerss.resources
+P:\Visual Studio Programy\CSharp\Tablice i listy\obj\Debug\Tablice_i_listy.Siemanczek.resources

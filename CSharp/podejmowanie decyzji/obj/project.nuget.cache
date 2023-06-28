@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JzG8uip+ywoSYVhvTFqDlWj3C9HmQcOFAVx0Kj8hVY/S1JgygfMGFeW0UUZeD8skW4EANkiaIrMTRdpH+PsMRg==",
+  "success": true,
+  "projectFilePath": "P:\\Visual Studio Programy\\CSharp\\podejmowanie decyzji\\Podejmowanie decyzji.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hal9000\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\Hal9000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Hal9000\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Hal9000\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

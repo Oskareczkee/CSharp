@@ -1,0 +1,11 @@
+P:\Visual Studio Programy\CSharp\Modularyzacja\bin\Debug\Modularyzacja.exe.config
+P:\Visual Studio Programy\CSharp\Modularyzacja\bin\Debug\Modularyzacja.exe
+P:\Visual Studio Programy\CSharp\Modularyzacja\bin\Debug\Modularyzacja.pdb
+P:\Visual Studio Programy\CSharp\Modularyzacja\obj\Debug\Modularyzacja.csprojAssemblyReference.cache
+P:\Visual Studio Programy\CSharp\Modularyzacja\obj\Debug\Modularyzacja.Form1.resources
+P:\Visual Studio Programy\CSharp\Modularyzacja\obj\Debug\Modularyzacja.Properties.Resources.resources
+P:\Visual Studio Programy\CSharp\Modularyzacja\obj\Debug\Modularyzacja.csproj.GenerateResource.cache
+P:\Visual Studio Programy\CSharp\Modularyzacja\obj\Debug\Modularyzacja.csproj.CoreCompileInputs.cache
+P:\Visual Studio Programy\CSharp\Modularyzacja\obj\Debug\Modularyzacja.exe
+P:\Visual Studio Programy\CSharp\Modularyzacja\obj\Debug\Modularyzacja.pdb
+P:\Visual Studio Programy\CSharp\Modularyzacja\obj\Debug\Modularyzacja.Form2.resources

@@ -1,0 +1,10 @@
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych\bin\Debug\Przetwarzanie danych.exe.config
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych\bin\Debug\Przetwarzanie danych.exe
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych\bin\Debug\Przetwarzanie danych.pdb
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych\obj\Debug\Przetwarzanie danych.csprojAssemblyReference.cache
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych\obj\Debug\Przetwarzanie_danych.Properties.Resources.resources
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych\obj\Debug\Przetwarzanie danych.csproj.GenerateResource.cache
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych\obj\Debug\Przetwarzanie danych.csproj.CoreCompileInputs.cache
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych\obj\Debug\Przetwarzanie danych.exe
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych\obj\Debug\Przetwarzanie danych.pdb
+P:\Visual Studio Programy\CSharp\Przetwarzanie danych\obj\Debug\Przetwarzanie_danych.LegiaWarszawaIncomeCalculator.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B) Pętle, Pliki i losowość", "B) Pętle, Pliki i losowość.csproj", "{AF5ABE46-1392-4FE3-AC52-EFA8F669663F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF5ABE46-1392-4FE3-AC52-EFA8F669663F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5ABE46-1392-4FE3-AC52-EFA8F669663F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5ABE46-1392-4FE3-AC52-EFA8F669663F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5ABE46-1392-4FE3-AC52-EFA8F669663F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1715EFD-32C7-416E-96E0-9C5B0B7F94D1}
+	EndGlobalSection
+EndGlobal

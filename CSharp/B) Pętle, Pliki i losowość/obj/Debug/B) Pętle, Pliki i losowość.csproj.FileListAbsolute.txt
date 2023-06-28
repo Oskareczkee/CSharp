@@ -1,0 +1,22 @@
+C:\Users\Hal9000\source\Repos\B) Pętle, Pliki i losowość\bin\Debug\B) Pętle, Pliki i losowość.exe.config
+C:\Users\Hal9000\source\Repos\B) Pętle, Pliki i losowość\bin\Debug\B) Pętle, Pliki i losowość.exe
+C:\Users\Hal9000\source\Repos\B) Pętle, Pliki i losowość\bin\Debug\B) Pętle, Pliki i losowość.pdb
+C:\Users\Hal9000\source\Repos\B) Pętle, Pliki i losowość\obj\Debug\B) Pętle, Pliki i losowość.csprojAssemblyReference.cache
+C:\Users\Hal9000\source\Repos\B) Pętle, Pliki i losowość\obj\Debug\B__Pętle__Pliki_i_losowość.Form1.resources
+C:\Users\Hal9000\source\Repos\B) Pętle, Pliki i losowość\obj\Debug\B__Pętle__Pliki_i_losowość.Properties.Resources.resources
+C:\Users\Hal9000\source\Repos\B) Pętle, Pliki i losowość\obj\Debug\B) Pętle, Pliki i losowość.csproj.GenerateResource.cache
+C:\Users\Hal9000\source\Repos\B) Pętle, Pliki i losowość\obj\Debug\B) Pętle, Pliki i losowość.csproj.CoreCompileInputs.cache
+C:\Users\Hal9000\source\Repos\B) Pętle, Pliki i losowość\obj\Debug\B) Pętle, Pliki i losowość.exe
+C:\Users\Hal9000\source\Repos\B) Pętle, Pliki i losowość\obj\Debug\B) Pętle, Pliki i losowość.pdb
+C:\Users\Hal9000\source\Repos\B) Pętle, Pliki i losowość\obj\Debug\B__Pętle__Pliki_i_losowość.Form2.resources
+P:\Visual Studio Programy\CSharp\B) Pętle, Pliki i losowość\obj\Debug\B) Pętle, Pliki i losowość.csprojAssemblyReference.cache
+P:\Visual Studio Programy\CSharp\B) Pętle, Pliki i losowość\obj\Debug\B__Pętle__Pliki_i_losowość.Form1.resources
+P:\Visual Studio Programy\CSharp\B) Pętle, Pliki i losowość\obj\Debug\B__Pętle__Pliki_i_losowość.Form2.resources
+P:\Visual Studio Programy\CSharp\B) Pętle, Pliki i losowość\obj\Debug\B__Pętle__Pliki_i_losowość.Properties.Resources.resources
+P:\Visual Studio Programy\CSharp\B) Pętle, Pliki i losowość\obj\Debug\B) Pętle, Pliki i losowość.csproj.GenerateResource.cache
+P:\Visual Studio Programy\CSharp\B) Pętle, Pliki i losowość\obj\Debug\B) Pętle, Pliki i losowość.csproj.CoreCompileInputs.cache
+P:\Visual Studio Programy\CSharp\B) Pętle, Pliki i losowość\obj\Debug\B) Pętle, Pliki i losowość.exe
+P:\Visual Studio Programy\CSharp\B) Pętle, Pliki i losowość\obj\Debug\B) Pętle, Pliki i losowość.pdb
+P:\Visual Studio Programy\CSharp\B) Pętle, Pliki i losowość\bin\Debug\B) Pętle, Pliki i losowość.exe.config
+P:\Visual Studio Programy\CSharp\B) Pętle, Pliki i losowość\bin\Debug\B) Pętle, Pliki i losowość.exe
+P:\Visual Studio Programy\CSharp\B) Pętle, Pliki i losowość\bin\Debug\B) Pętle, Pliki i losowość.pdb

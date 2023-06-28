@@ -1,0 +1,10 @@
+P:\Visual Studio Programy\CSharp\Fake Mail Sender\obj\Debug\Fake Mail Sender.csproj.AssemblyReference.cache
+P:\Visual Studio Programy\CSharp\Fake Mail Sender\obj\Debug\Fake_Mail_Sender.Form1.resources
+P:\Visual Studio Programy\CSharp\Fake Mail Sender\obj\Debug\Fake_Mail_Sender.Properties.Resources.resources
+P:\Visual Studio Programy\CSharp\Fake Mail Sender\obj\Debug\Fake Mail Sender.csproj.GenerateResource.cache
+P:\Visual Studio Programy\CSharp\Fake Mail Sender\obj\Debug\Fake Mail Sender.csproj.CoreCompileInputs.cache
+P:\Visual Studio Programy\CSharp\Fake Mail Sender\bin\Debug\Fake Mail Sender.exe.config
+P:\Visual Studio Programy\CSharp\Fake Mail Sender\bin\Debug\Fake Mail Sender.exe
+P:\Visual Studio Programy\CSharp\Fake Mail Sender\bin\Debug\Fake Mail Sender.pdb
+P:\Visual Studio Programy\CSharp\Fake Mail Sender\obj\Debug\Fake Mail Sender.exe
+P:\Visual Studio Programy\CSharp\Fake Mail Sender\obj\Debug\Fake Mail Sender.pdb

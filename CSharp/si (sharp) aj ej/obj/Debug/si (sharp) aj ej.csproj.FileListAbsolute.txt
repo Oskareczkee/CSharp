@@ -1,0 +1,10 @@
+C:\Users\Hal9000\source\Repos\si (sharp) aj ej\bin\Debug\si (sharp) aj ej.exe.config
+C:\Users\Hal9000\source\Repos\si (sharp) aj ej\bin\Debug\si (sharp) aj ej.exe
+C:\Users\Hal9000\source\Repos\si (sharp) aj ej\bin\Debug\si (sharp) aj ej.pdb
+C:\Users\Hal9000\source\Repos\si (sharp) aj ej\obj\Debug\si (sharp) aj ej.csprojAssemblyReference.cache
+C:\Users\Hal9000\source\Repos\si (sharp) aj ej\obj\Debug\si__sharp__aj_ej.Form1.resources
+C:\Users\Hal9000\source\Repos\si (sharp) aj ej\obj\Debug\si__sharp__aj_ej.Properties.Resources.resources
+C:\Users\Hal9000\source\Repos\si (sharp) aj ej\obj\Debug\si (sharp) aj ej.csproj.GenerateResource.cache
+C:\Users\Hal9000\source\Repos\si (sharp) aj ej\obj\Debug\si (sharp) aj ej.csproj.CoreCompileInputs.cache
+C:\Users\Hal9000\source\Repos\si (sharp) aj ej\obj\Debug\si (sharp) aj ej.exe
+C:\Users\Hal9000\source\Repos\si (sharp) aj ej\obj\Debug\si (sharp) aj ej.pdb

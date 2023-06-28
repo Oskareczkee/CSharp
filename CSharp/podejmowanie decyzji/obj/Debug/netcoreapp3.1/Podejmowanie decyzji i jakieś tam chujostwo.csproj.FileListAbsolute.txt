@@ -1,0 +1,15 @@
+P:\Visual Studio Programy\CSharp\Podejmowanie decyzji i jakieś tam chujostwo\bin\Debug\netcoreapp3.1\Podejmowanie decyzji i jakieś tam chujostwo.exe
+P:\Visual Studio Programy\CSharp\Podejmowanie decyzji i jakieś tam chujostwo\bin\Debug\netcoreapp3.1\Podejmowanie decyzji i jakieś tam chujostwo.deps.json
+P:\Visual Studio Programy\CSharp\Podejmowanie decyzji i jakieś tam chujostwo\bin\Debug\netcoreapp3.1\Podejmowanie decyzji i jakieś tam chujostwo.runtimeconfig.json
+P:\Visual Studio Programy\CSharp\Podejmowanie decyzji i jakieś tam chujostwo\bin\Debug\netcoreapp3.1\Podejmowanie decyzji i jakieś tam chujostwo.runtimeconfig.dev.json
+P:\Visual Studio Programy\CSharp\Podejmowanie decyzji i jakieś tam chujostwo\bin\Debug\netcoreapp3.1\Podejmowanie decyzji i jakieś tam chujostwo.dll
+P:\Visual Studio Programy\CSharp\Podejmowanie decyzji i jakieś tam chujostwo\bin\Debug\netcoreapp3.1\Podejmowanie decyzji i jakieś tam chujostwo.pdb
+P:\Visual Studio Programy\CSharp\Podejmowanie decyzji i jakieś tam chujostwo\obj\Debug\netcoreapp3.1\Podejmowanie decyzji i jakieś tam chujostwo.csprojAssemblyReference.cache
+P:\Visual Studio Programy\CSharp\Podejmowanie decyzji i jakieś tam chujostwo\obj\Debug\netcoreapp3.1\Podejmowanie_decyzji_i_jakieś_tam_chujostwo.Form1.resources
+P:\Visual Studio Programy\CSharp\Podejmowanie decyzji i jakieś tam chujostwo\obj\Debug\netcoreapp3.1\Podejmowanie decyzji i jakieś tam chujostwo.csproj.GenerateResource.cache
+P:\Visual Studio Programy\CSharp\Podejmowanie decyzji i jakieś tam chujostwo\obj\Debug\netcoreapp3.1\Podejmowanie decyzji i jakieś tam chujostwo.AssemblyInfoInputs.cache
+P:\Visual Studio Programy\CSharp\Podejmowanie decyzji i jakieś tam chujostwo\obj\Debug\netcoreapp3.1\Podejmowanie decyzji i jakieś tam chujostwo.AssemblyInfo.cs
+P:\Visual Studio Programy\CSharp\Podejmowanie decyzji i jakieś tam chujostwo\obj\Debug\netcoreapp3.1\Podejmowanie decyzji i jakieś tam chujostwo.csproj.CoreCompileInputs.cache
+P:\Visual Studio Programy\CSharp\Podejmowanie decyzji i jakieś tam chujostwo\obj\Debug\netcoreapp3.1\Podejmowanie decyzji i jakieś tam chujostwo.dll
+P:\Visual Studio Programy\CSharp\Podejmowanie decyzji i jakieś tam chujostwo\obj\Debug\netcoreapp3.1\Podejmowanie decyzji i jakieś tam chujostwo.pdb
+P:\Visual Studio Programy\CSharp\Podejmowanie decyzji i jakieś tam chujostwo\obj\Debug\netcoreapp3.1\Podejmowanie decyzji i jakieś tam chujostwo.genruntimeconfig.cache

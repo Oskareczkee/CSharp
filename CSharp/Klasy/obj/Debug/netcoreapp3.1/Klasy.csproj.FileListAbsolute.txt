@@ -1,0 +1,17 @@
+P:\Visual Studio Programy\CSharp\Klasy\bin\Debug\netcoreapp3.1\Klasy.exe
+P:\Visual Studio Programy\CSharp\Klasy\bin\Debug\netcoreapp3.1\Klasy.deps.json
+P:\Visual Studio Programy\CSharp\Klasy\bin\Debug\netcoreapp3.1\Klasy.runtimeconfig.json
+P:\Visual Studio Programy\CSharp\Klasy\bin\Debug\netcoreapp3.1\Klasy.runtimeconfig.dev.json
+P:\Visual Studio Programy\CSharp\Klasy\bin\Debug\netcoreapp3.1\Klasy.dll
+P:\Visual Studio Programy\CSharp\Klasy\bin\Debug\netcoreapp3.1\Klasy.pdb
+P:\Visual Studio Programy\CSharp\Klasy\obj\Debug\netcoreapp3.1\Klasy.csprojAssemblyReference.cache
+P:\Visual Studio Programy\CSharp\Klasy\obj\Debug\netcoreapp3.1\Klasy.csproj.GenerateResource.cache
+P:\Visual Studio Programy\CSharp\Klasy\obj\Debug\netcoreapp3.1\Klasy.AssemblyInfoInputs.cache
+P:\Visual Studio Programy\CSharp\Klasy\obj\Debug\netcoreapp3.1\Klasy.AssemblyInfo.cs
+P:\Visual Studio Programy\CSharp\Klasy\obj\Debug\netcoreapp3.1\Klasy.csproj.CoreCompileInputs.cache
+P:\Visual Studio Programy\CSharp\Klasy\obj\Debug\netcoreapp3.1\Klasy.dll
+P:\Visual Studio Programy\CSharp\Klasy\obj\Debug\netcoreapp3.1\Klasy.pdb
+P:\Visual Studio Programy\CSharp\Klasy\obj\Debug\netcoreapp3.1\Klasy.genruntimeconfig.cache
+P:\Visual Studio Programy\CSharp\Klasy\obj\Debug\netcoreapp3.1\Klasy.AccCalculator.resources
+P:\Visual Studio Programy\CSharp\Klasy\obj\Debug\netcoreapp3.1\Klasy.AddressBook.resources
+P:\Visual Studio Programy\CSharp\Klasy\obj\Debug\netcoreapp3.1\Klasy.PersonDataWindow.resources

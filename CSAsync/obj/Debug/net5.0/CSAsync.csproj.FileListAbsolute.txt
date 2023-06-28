@@ -1,0 +1,16 @@
+P:\Visual Studio Programy\CSAsync\bin\Debug\net5.0\CSAsync.exe
+P:\Visual Studio Programy\CSAsync\bin\Debug\net5.0\CSAsync.deps.json
+P:\Visual Studio Programy\CSAsync\bin\Debug\net5.0\CSAsync.runtimeconfig.json
+P:\Visual Studio Programy\CSAsync\bin\Debug\net5.0\CSAsync.runtimeconfig.dev.json
+P:\Visual Studio Programy\CSAsync\bin\Debug\net5.0\CSAsync.dll
+P:\Visual Studio Programy\CSAsync\bin\Debug\net5.0\ref\CSAsync.dll
+P:\Visual Studio Programy\CSAsync\bin\Debug\net5.0\CSAsync.pdb
+P:\Visual Studio Programy\CSAsync\obj\Debug\net5.0\CSAsync.csproj.AssemblyReference.cache
+P:\Visual Studio Programy\CSAsync\obj\Debug\net5.0\CSAsync.GeneratedMSBuildEditorConfig.editorconfig
+P:\Visual Studio Programy\CSAsync\obj\Debug\net5.0\CSAsync.AssemblyInfoInputs.cache
+P:\Visual Studio Programy\CSAsync\obj\Debug\net5.0\CSAsync.AssemblyInfo.cs
+P:\Visual Studio Programy\CSAsync\obj\Debug\net5.0\CSAsync.csproj.CoreCompileInputs.cache
+P:\Visual Studio Programy\CSAsync\obj\Debug\net5.0\CSAsync.dll
+P:\Visual Studio Programy\CSAsync\obj\Debug\net5.0\ref\CSAsync.dll
+P:\Visual Studio Programy\CSAsync\obj\Debug\net5.0\CSAsync.pdb
+P:\Visual Studio Programy\CSAsync\obj\Debug\net5.0\CSAsync.genruntimeconfig.cache

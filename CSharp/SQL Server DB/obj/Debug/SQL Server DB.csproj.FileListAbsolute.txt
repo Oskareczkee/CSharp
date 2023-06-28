@@ -1,0 +1,13 @@
+P:\Visual Studio Programy\CSharp\SQL Server DB\bin\Debug\Database1.mdf
+P:\Visual Studio Programy\CSharp\SQL Server DB\bin\Debug\Database1_log.ldf
+P:\Visual Studio Programy\CSharp\SQL Server DB\bin\Debug\SQL Server DB.exe.config
+P:\Visual Studio Programy\CSharp\SQL Server DB\bin\Debug\SQL Server DB.exe
+P:\Visual Studio Programy\CSharp\SQL Server DB\bin\Debug\SQL Server DB.pdb
+P:\Visual Studio Programy\CSharp\SQL Server DB\obj\Debug\SQL Server DB.csproj.AssemblyReference.cache
+P:\Visual Studio Programy\CSharp\SQL Server DB\obj\Debug\SQL_Server_DB.Properties.Resources.resources
+P:\Visual Studio Programy\CSharp\SQL Server DB\obj\Debug\SQL Server DB.csproj.GenerateResource.cache
+P:\Visual Studio Programy\CSharp\SQL Server DB\obj\Debug\SQL Server DB.csproj.CoreCompileInputs.cache
+P:\Visual Studio Programy\CSharp\SQL Server DB\obj\Debug\SQL Server DB.exe
+P:\Visual Studio Programy\CSharp\SQL Server DB\obj\Debug\SQL Server DB.pdb
+P:\Visual Studio Programy\CSharp\SQL Server DB\obj\Debug\SQL_Server_DB.Employess.resources
+P:\Visual Studio Programy\CSharp\SQL Server DB\obj\Debug\SQL_Server_DB.EmplyeeDetails.resources
