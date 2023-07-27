@@ -1,0 +1,67 @@
+﻿<Window x:Class="Language_Learning_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModel="clr-namespace:Language_Learning_App.MVVM.ViewModel"
+        xmlns:local="clr-namespace:Language_Learning_App"
+        Title="Languingo"
+        mc:Ignorable="d"
+        Height="600" Width="920"
+        ResizeMode="NoResize"
+        Background="Transparent">
+
+    <Window.DataContext>
+        <viewModel:MainViewModel></viewModel:MainViewModel>
+    </Window.DataContext>
+    
+    <Border Background="#272537"
+            CornerRadius="5">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel>
+                <TextBlock Text="Languingo"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Left"
+                       Foreground="White"
+                       FontSize="22"
+                       Margin="20,0,0,0"
+                       Padding="0,20,0,20">
+            </TextBlock>
+
+            <StackPanel Grid.Row="1">
+                <RadioButton Content="Learn"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             IsChecked="True"
+                             Command="{Binding LearnViewCommand}"
+                             Style="{StaticResource MenuButtonTheme}"/>
+                <RadioButton Content="Database"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Command="{Binding DatabaseViewCommand}"
+                             Style="{StaticResource MenuButtonTheme}"/>
+                <RadioButton Content="Stats"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Command="{Binding StatsViewCommand}"
+                             Style="{StaticResource MenuButtonTheme}"/>
+            </StackPanel>
+         </StackPanel>
+
+            <ContentControl Grid.Row="1"
+                            Grid.Column="1"
+                            Margin="10"
+                            Content="{Binding CurrentView}">
+            </ContentControl>
+        </Grid>
+        
+    </Border>
+</Window>

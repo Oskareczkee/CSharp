@@ -1,0 +1,57 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:models ="clr-namespace:Language_Learning_App.DB.Models">
+    <DataTemplate x:Key="SessionTemplate"
+                  DataType="models:Session">
+        <DockPanel HorizontalAlignment="Stretch">
+            <TextBlock Text="{Binding Date, StringFormat=d}"
+                       Foreground="White"
+                       FontSize="20"
+                       HorizontalAlignment="Left"
+                       Margin="0,10,0,10"
+                       DockPanel.Dock="Top">
+            </TextBlock>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel>
+                    <TextBlock Text="Words Translated"
+                               Foreground="White"
+                               FontSize="18"
+                               HorizontalAlignment="Center"/>
+                    <TextBlock Text="{Binding WordsTranslated}"
+                               Foreground="White"
+                               FontSize="18"
+                               HorizontalAlignment="Center"/>
+                </StackPanel>
+
+                <StackPanel Grid.Column="1">
+                    <TextBlock Text="Successes"
+                               Foreground="White"
+                               FontSize="18"
+                               HorizontalAlignment="Center"/>
+                    <TextBlock Text="{Binding Successes}"
+                               Foreground="White"
+                               FontSize="18"
+                               HorizontalAlignment="Center"/>
+                </StackPanel>
+
+                <StackPanel Grid.Column="2">
+                    <TextBlock Text="Fails"
+                               Foreground="White"
+                               FontSize="18"
+                               HorizontalAlignment="Center"/>
+                    <TextBlock Text="{Binding Fails}"
+                               Foreground="White"
+                               FontSize="18"
+                               HorizontalAlignment="Center"/>
+                </StackPanel>
+            </Grid>
+        </DockPanel>
+    </DataTemplate>
+</ResourceDictionary>

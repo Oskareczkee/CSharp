@@ -1,0 +1,20 @@
+﻿Language Learning App
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Hal9000\Desktop\Language Learning App\obj\Debug\net6.0-windows\
+Language_Learning_App
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Hal9000\Desktop\Language Learning App\App.xaml
+8-1267734030
+1-1606303973
+286288880
+222-354419279
+MainWindow.xaml;MVVM\View\DatabaseView.xaml;MVVM\View\LearnView.xaml;MVVM\View\StatsView.xaml;Theme\ButtonTheme.xaml;Theme\MenuButtonTheme.xaml;Theme\SessionTemplate.xaml;Theme\TextboxTheme.xaml;
+
+True
+
