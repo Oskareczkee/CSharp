@@ -1,7 +1,7 @@
 # Language Learning App
-![Screenshot of app]("screen1.png")  
-![Screenshot of app]("screen2.png")  
-![Screenshot of app]("screen3.png")  
+![Screenshot of app](screen1.png)  
+![Screenshot of app](screen2.png)  
+![Screenshot of app](screen3.png)  
 This is very simple language learning app. Its main purpose was to learn the very basics of WPF.  
 Interface is very simple, yet i did some work to change appearance of default windows look.
 ## Features
